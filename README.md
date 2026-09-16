@@ -108,10 +108,8 @@ $ sudo access --level=root
 ## `> ./connect.sh --secure`
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=00FF41" /></a>
+  <a href="mailto:ghassen.boulares@medtech.tn"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="https://linkedin.com/in/ghassen-boulares-0a701b284/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 </p>
 
 <div align="center">
