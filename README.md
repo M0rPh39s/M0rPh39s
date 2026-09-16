@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:00FF41&height=220&section=header&text=M0rPh39s&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=root@ctOS:~%23%20access_granted&descAlignY=55&descSize=18&fontFamily=monospace)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=600&lines=root%40ctOS%3A~%23+whoami;Ghassen+%22M0rPh39s%22+Boulares;Security+Researcher+%2F%2F+Full-Stack+Dev;Status%3A+ONLINE;%5BACCESS+GRANTED%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=600&lines=root%40ctOS%3A~%23+whoami;Ghassen+%22M0rPh39s%22+Boulares;Security+Researcher+%2F%2F+Systems+Developer;Status%3A+ONLINE;%5BACCESS+GRANTED%5D)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=M0rPh39s&label=TRANSMISSIONS+RECEIVED&color=00FF41&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/M0rPh39s?label=FOLLOWERS&style=for-the-badge&color=0D0D0D&labelColor=0D0D0D&logo=github&logoColor=00FF41)
@@ -15,7 +15,7 @@
 
 ```yaml
 alias: M0rPh39s
-role: Security Researcher / Full-Stack Developer
+role: Security Researcher / Systems Developer
 based_in: Tunisia
 weapons_of_choice: [Python, Bash, Linux, C/C++, JavaScript]
 current_focus: "Breaking things to understand how to build them better"
@@ -46,7 +46,6 @@ $ sudo access --level=root
 ![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=00FF41)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 
 **Security & Ops**
@@ -79,6 +78,7 @@ $ sudo access --level=root
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FF41)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=00FF41)
 ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 
 </div>
