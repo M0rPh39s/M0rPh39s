@@ -59,6 +59,21 @@ $ sudo access --level=root
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-0D0D0D?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-0D0D0D?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
 
+**Binary Exploitation & Reverse Engineering**
+
+![GDB](https://img.shields.io/badge/GDB-0D0D0D?style=for-the-badge&color=0D0D0D)
+![Pwndbg](https://img.shields.io/badge/Pwndbg%2FGEF-0D0D0D?style=for-the-badge&color=0D0D0D)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D0D0D?style=for-the-badge&color=0D0D0D)
+![radare2](https://img.shields.io/badge/radare2-0D0D0D?style=for-the-badge&color=0D0D0D)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0D0D0D?style=for-the-badge&color=0D0D0D)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-0D0D0D?style=for-the-badge&color=0D0D0D)
+![pwntools](https://img.shields.io/badge/pwntools-0D0D0D?style=for-the-badge&color=0D0D0D)
+![angr](https://img.shields.io/badge/angr-0D0D0D?style=for-the-badge&color=0D0D0D)
+![ROPgadget](https://img.shields.io/badge/ROPgadget-0D0D0D?style=for-the-badge&color=0D0D0D)
+![checksec](https://img.shields.io/badge/checksec-0D0D0D?style=for-the-badge&color=0D0D0D)
+![x64dbg](https://img.shields.io/badge/x64dbg-0D0D0D?style=for-the-badge&color=0D0D0D)
+![QEMU](https://img.shields.io/badge/QEMU-0D0D0D?style=for-the-badge&logo=qemu&logoColor=00FF41)
+
 **Infra & Tools**
 
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FF41)
