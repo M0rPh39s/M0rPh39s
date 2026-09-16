@@ -88,16 +88,12 @@ $ sudo access --level=root
 ## `> curl stats.ctos/M0rPh39s`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0rPh39s&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00FF41&text_color=39FF14&ring_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rPh39s&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=39FF14" width="35%" />
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="35%" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=M0rPh39s&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=39FF14" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M0rPh39s&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 <br>
