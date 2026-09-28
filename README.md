@@ -20,6 +20,7 @@ based_in: Tunisia
 weapons_of_choice: [Python, Bash, Linux, C/C++, JavaScript]
 current_focus: "Breaking things to understand how to build them better"
 motto: "Trust is a vulnerability."
+blog: https://m0rpheus.tech
 ```
 
 <br>
@@ -119,6 +120,7 @@ $ sudo access --level=root
 ## `> ./connect.sh --secure`
 
 <p align="center">
+  <a href="https://m0rpheus.tech"><img src="https://img.shields.io/badge/Blog-0D0D0D?style=for-the-badge&logo=rss&logoColor=00FF41" /></a>
   <a href="mailto:ghassen.boulares@medtech.tn"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
   <a href="https://linkedin.com/in/ghassen-boulares-0a701b284/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 </p>
