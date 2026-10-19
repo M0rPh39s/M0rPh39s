@@ -109,12 +109,6 @@ $ sudo access --level=root
   </picture>
 </div>
 
-<sub align="center">
-
-*(this animates a snake eating my contribution graph — it renders after the first Actions run, see setup notes)*
-
-</sub>
-
 <br>
 
 ## `> ./connect.sh --secure`
